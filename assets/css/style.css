@@ -1,0 +1,207 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display&display=swap');
+
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:300;
+    color:white;
+    background-color:goldenrod
+}
+
+h1, h2{
+    font-family:'Courier New', Courier, monospace;
+    font-weight:700;
+    letter-spacing:5px;
+    text-transform:capitalize;
+    text-decoration: underline;
+    clear:both;
+    display:inline;
+    margin-right:50px;
+}
+
+h3, p, td, th, label, input, legend {
+    font-family: 'lato',sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.logo-header{
+    float:center;
+    margin-right:30px;
+    margin-top:20px;
+    font-size:50%;
+
+}
+
+a:hover{
+    cursor:pointer;
+    text-decoration:none;
+}
+
+#menu{
+    background-color:black;
+}
+
+#menu{
+    list-style-type:none;
+    font-size:150%;
+    clear:left;
+}
+
+#menu li{
+    display:inline;
+    text-decoration:none;
+}
+
+#menu a {
+    text-decoration:none;
+    letter-spacing:4px;
+    margin-left:40px;
+    font-size:150px;
+    font-weight:700;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+
+#menu a:hover{
+    text-decoration:underline;
+}
+
+#about-us {
+    margin-top: 40px;
+}
+
+#about-us h2 {
+margin-left: 40px;
+}
+
+#about-us p {
+margin: 40px;
+}
+
+#about-us h2 {
+text-decoration: underline;
+}
+
+.service-table {
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    width: 33.3%;
+    table-layout: fixed;
+    border: 1px solid #3a3a3a;
+}
+
+#service-section {
+    clear:both;
+    float:left;
+}
+
+#service-h2 {
+    text-align: left;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+.table-th {
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+tr > td {
+    padding: 5px;
+}
+
+.mapouter {
+    clear:left;
+    position: relative;
+    text-align:center;
+    height: 180px;
+    width: 100%;
+}
+
+footer {
+    height: 150px;
+}
+
+.main-table-opening-times {
+    width: auto;
+    float: none;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    font-family: 'lato', sans-serif;
+    line-height: 170%;
+}
+
+.table-opening-times {
+    font-weight: 700;
+    font-family: 'lato', sans-serif;
+    text-decoration: underline;
+}
+
+.logo-footer {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    padding-top: 20px;
+}
+
+.social-networks {
+    clear: both;
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    padding: 2% 5%;
+    color: #3a3a3a;
+}
+
+#copyright {
+    text-align: center;
+}
+
+#your-details {
+    margin-left: 10%;
+    padding: 5px;
+    color: #3a3a3a;
+    background-color: #CBC0E0;
+    font-weight: 900;
+    text-decoration: underline;
+}
+label {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:10px;
+}
+
+input, label, textarea {
+    float:left;
+}
+
+.send-form {
+    margin-left: 190px;
+    margin-top: 1%;
+    background-color: #3a3a3a;
+    color: #CBC0E0;
+}
+
+.reset-form {
+    margin-left: 1%;
+    margin-top: 1%;
+    background-color: #3a3a3a;
+    color: #CBC0E0;
+}
