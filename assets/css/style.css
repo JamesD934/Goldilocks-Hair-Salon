@@ -1,5 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display&display=swap');
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
 
 
 body{
@@ -9,7 +14,11 @@ body{
     background-color:goldenrod
 }
 
-h1, h2{
+h1{
+    text-align:center;
+}
+
+h2{
     font-family:'Courier New', Courier, monospace;
     font-weight:700;
     letter-spacing:5px;
@@ -18,9 +27,10 @@ h1, h2{
     clear:both;
     display:inline;
     margin-right:50px;
+    
 }
 
-h3, p, td, th, label, input, legend {
+p, td, th, label, input, legend {
     font-family: 'lato',sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
@@ -28,17 +38,28 @@ h3, p, td, th, label, input, legend {
     text-decoration: none;
 }
 
-.logo-header{
-    float:center;
-    margin-right:30px;
-    margin-top:20px;
-    font-size:50%;
-
-}
+.top-header { 
+	width: 100%; 
+	background-image: url(https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/7db334c0-e03c-4956-9f7c-defb168ee581/header-westport-town-mayo.jpg); 
+	background-size: cover; 
+	background-position: center; 
+} 
+.top-header > h1 { 
+	color: white; 
+	padding: 2em 1em; 
+	font-family: sans-serif; 
+} 
 
 a:hover{
     cursor:pointer;
     text-decoration:none;
+}
+
+#nav-menu{
+    letter-spacing: 4px;
+    font-size:50px;
+    margin:0;
+    padding:0;
 }
 
 #menu{
@@ -47,8 +68,8 @@ a:hover{
 
 #menu{
     list-style-type:none;
-    font-size:150%;
-    clear:left;
+    font-size:50%;
+    clear:none;
 }
 
 #menu li{
@@ -60,7 +81,7 @@ a:hover{
     text-decoration:none;
     letter-spacing:4px;
     margin-left:40px;
-    font-size:150px;
+    font-size:50px;
     font-weight:700;
     font-family:Arial, Helvetica, sans-serif;
 
@@ -204,4 +225,14 @@ input, label, textarea {
     margin-top: 1%;
     background-color: #3a3a3a;
     color: #CBC0E0;
+}
+
+.photos {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px; 
+}
+#photos{
+    text-align:center;
 }
