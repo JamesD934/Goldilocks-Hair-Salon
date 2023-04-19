@@ -45,7 +45,7 @@ p, td, th, label, input, legend {
 	background-position: center; 
 } 
 .top-header > h1 { 
-	color: white; 
+	color: beige; 
 	padding: 2em 1em; 
 	font-family: sans-serif; 
 } 
@@ -235,8 +235,5 @@ input, label, textarea {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    height: 30px; 
-}
-#photos{
-    text-align:center;
+    height: 50px; 
 }
