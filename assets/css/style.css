@@ -237,3 +237,95 @@ input, label, textarea {
     margin-right: auto;
     height: 50px; 
 }
+
+
+@media screen and (max-width:1200px) {
+
+}
+
+@media screen and (max-width: 950px) {
+    .top-header {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        text-align: center;
+    }
+
+    
+    
+    .service-table {
+        margin-left: auto;
+        margin-bottom: auto;
+        width:auto;
+        float: none;
+    }
+
+    #service-table-h2 {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin: auto;
+    }
+
+    #service-table-h2 {
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 20px;
+    }
+    
+    #about-us h2 {
+        margin-right: 20px; 
+        display: inline-block;
+    }
+
+    #about-us p {
+        margin-right: 20px; 
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    #your-details {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    form {
+        clear: left;
+        float: left;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    label {
+        text-align:left;
+        margin-left: 20px;
+        margin-right: auto;
+        padding: 2px;
+    }
+    
+    #message, #fname-field, #lname-field, #email-field, #pnumber-field {
+        float: right;
+        text-align:left;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 2px;
+    }
+
+    .send-form, .reset-form {
+        padding: 5px;
+        font-weight: bold;
+        margin: 20px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 1;
+    }
+}
+
+
