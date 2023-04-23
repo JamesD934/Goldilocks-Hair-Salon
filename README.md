@@ -37,8 +37,6 @@ https://www.webpagetest.org/result/230423_AiDcWE_4R3/
 ## Unfixed bugs:
 The main bug I during devlopment was originally having a Logo on the header along with the name. I couldnt get the logo to be centered and neat and decided to change it to a background image instead.
 
-## Deployment:
-
 ## Credits:
 Icons were taken from Font Awesome
 fonts were taken from font awesome
