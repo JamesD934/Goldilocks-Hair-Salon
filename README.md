@@ -26,7 +26,7 @@ index.html:One error was found
 services.html:No errors were found
 contact.HTML:no errors were found
 CSS:no errors were found.
-##Lighthouse testing:
+## Lighthouse testing:
 
 ## Unfixed bugs:The main bug I during devlopment was originally having a Logo on the header along with the name. I couldnt get the logo to be centered and neat and decided to change it to a background image instead.
 
