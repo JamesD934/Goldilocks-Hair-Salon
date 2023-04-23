@@ -42,3 +42,4 @@ Icons were taken from Font Awesome
 fonts were taken from font awesome
 Logo and background image was taken from google images
 The two photos of the shop were taken from my own camera.
+Some code I took and changed from the Love running and coders coffeehouse projects. 
