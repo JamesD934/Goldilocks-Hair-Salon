@@ -34,6 +34,6 @@ CSS:no errors were found.
 
 ## Credits:
 Icons were taken from Font Awesome
-fonts were taken from google fonts
+fonts were taken from font awesome
 Logo and background image was taken from google images
 The two photos of the shop were taken from my own camera.
