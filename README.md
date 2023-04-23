@@ -2,6 +2,10 @@
 
 I created this site to help and promote a family member's business. She has no online presence so I thought this would help her and make this her first step into promoting her business. This website was created to give potiential customers an idea of what they can get done at this Hairdressers.
 
+https://ui.dev/amiresponsive?url=https://jamesd934.github.io/Goldilocks-Hair-Salon/
+
+https://jamesd934.github.io/Goldilocks-Hair-Salon/index.html
+
 
 ## Features
 Navigation bar
@@ -20,13 +24,13 @@ The services table shows what sort of services this business does and the prices
 contact:
 The contact page will let customers leave an enquiry if they wish to contact the business. 
 
-## testing
-### Vlidator Testing
+# testing
+## Validator Testing
 index.html:One error was found 
 services.html:No errors were found
 contact.HTML:no errors were found
 CSS:no errors were found.
-## Lighthouse testing:
+## Lighthouse testing: https://www.webpagetest.org/result/230423_AiDcWE_4R3/
 
 ## Unfixed bugs:The main bug I during devlopment was originally having a Logo on the header along with the name. I couldnt get the logo to be centered and neat and decided to change it to a background image instead.
 
