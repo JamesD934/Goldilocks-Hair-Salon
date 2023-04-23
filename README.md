@@ -23,6 +23,7 @@ The services table shows what sort of services this business does and the prices
 
 contact:
 The contact page will let customers leave an enquiry if they wish to contact the business. 
+There are 3 links, The facebook and instagram only bring you to home page of those sites as there hasn't been any social media accounts set up for this business yet. 
 
 # testing
 ## Validator Testing
@@ -30,9 +31,11 @@ index.html:One error was found
 services.html:No errors were found
 contact.HTML:no errors were found
 CSS:no errors were found.
-## Lighthouse testing: https://www.webpagetest.org/result/230423_AiDcWE_4R3/
+## Lighthouse testing: 
+https://www.webpagetest.org/result/230423_AiDcWE_4R3/
 
-## Unfixed bugs:The main bug I during devlopment was originally having a Logo on the header along with the name. I couldnt get the logo to be centered and neat and decided to change it to a background image instead.
+## Unfixed bugs:
+The main bug I during devlopment was originally having a Logo on the header along with the name. I couldnt get the logo to be centered and neat and decided to change it to a background image instead.
 
 ## Deployment:
 
